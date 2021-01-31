@@ -12,4 +12,6 @@ Every time I paste these them into other documents, I find myself manually remov
 One suggestion was to look at the Mac Automator:
     [Automator User Guide for Mac - Apple Support](https://support.apple.com/guide/automator/welcome/mac)
 
-The Automator has been around for awhile, and provides a way to create _Quick Action_s that can be scoped by application, and also assigned keyboard shortcuts.
+The Automator has been around for awhile, and provides a way to create _Quick Action_ s that can be scoped by application, and also assigned keyboard shortcuts.
+
+Thus, I have created such asn action here.
