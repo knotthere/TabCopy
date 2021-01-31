@@ -14,4 +14,8 @@ One suggestion was to look at the Mac Automator:
 
 The Automator has been around for awhile, and provides a way to create _Quick Action_ s that can be scoped by application, and also assigned keyboard shortcuts.
 
-Thus, I have created such asn action here.
+Thus, I have created such an action here.
+
+## Useage
+
+
