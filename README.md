@@ -18,4 +18,11 @@ Thus, I have created such an action here.
 
 ## Useage
 
+1. Copy ./TabCopy.workflow to /Users/\<username\>/Library/Services
+2. Open Chrome application
+3. Chrome > Services > Services Preferences…
+4. In Shortcuts > Services scroll down to General
+5. Select TabCopy and Add Shortcut
+6. Specify a shortcut, like Cmd-U
 
+Now, when in Chrome, if you press that shortcut, a customized hyperlink is placed on the clipboard.
